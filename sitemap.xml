@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.kunlovefan.online/posts/blog-test/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kunlovefan.online/categories/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
     <loc>https://blog.kunlovefan.online/</loc>
     <lastmod>2024-03-16T14:35:43+08:00</lastmod>
   </url><url>
     <loc>https://blog.kunlovefan.online/posts/</loc>
     <lastmod>2024-03-16T14:35:43+08:00</lastmod>
   </url><url>
-    <loc>https://blog.kunlovefan.online/categories/</loc>
-  </url><url>
-    <loc>https://blog.kunlovefan.online/series/</loc>
+    <loc>https://blog.kunlovefan.online/tags/tag1/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
   </url><url>
     <loc>https://blog.kunlovefan.online/tags/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kunlovefan.online/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kunlovefan.online/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kunlovefan.online/categories/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2024-03-16T14:35:43+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kunlovefan.online/series/</loc>
   </url><url>
     <loc>https://blog.kunlovefan.online/archives/</loc>
   </url><url>
