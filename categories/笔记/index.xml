@@ -13,8 +13,8 @@
       <link>https://blog.kunlovefan.online/posts/blog-test/</link>
       <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
       <guid>https://blog.kunlovefan.online/posts/blog-test/</guid>
-      <description>GitHub Page，hugo，Cusdis，blog</description>
-      <content:encoded><![CDATA[<h1 id="所需工具和网站">所需工具和网站</h1>
+      <description>GitHub Page，hugo，Cusdis</description>
+      <content:encoded><![CDATA[<h2 id="所需工具和网站">所需工具和网站</h2>
 <p>之前写了一篇《免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）》，讲述了一下我使用 Serverless 和一些开源项目搭建的博客系统，也开了个系列来记录搭建过程。</p>
 <p>前几天看到 Reorx 写的一篇 《搭建 umami 收集个人网站统计数据》，他介绍了 umami 这个项目，并使用 Railway 进行无服务搭建部署。</p>
 <p>只不过我因为之前部署 Cusdis 的时候使用的是 Heroku 提供的免费 Postgres 数据库服务并用 Vercel 进行部署，于是在部署 umami 的时候还是想沿用原来的平台，减少搭建和维护成本。</p>
