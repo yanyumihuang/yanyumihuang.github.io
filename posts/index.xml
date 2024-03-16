@@ -9,11 +9,14 @@
     <lastBuildDate>Sat, 16 Mar 2024 14:35:43 +0800</lastBuildDate>
     <atom:link href="https://blog.kunlovefan.online/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Test</title>
+      <title>使用GitHub Page，hugo和Cusdis搭建自己的blog</title>
       <link>https://blog.kunlovefan.online/posts/blog-test/</link>
       <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
       <guid>https://blog.kunlovefan.online/posts/blog-test/</guid>
-      <description></description>
+      <description>GitHub Page，hugo，Cusdis，blog</description>
+      <content:encoded><![CDATA[<h1 id="所需工具和网站">所需工具和网站</h1>
+<p>GitHub Page\ref{baidu.com} Cusdis{cusdis.com}</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,17 @@
     <lastBuildDate>Sat, 16 Mar 2024 14:35:43 +0800</lastBuildDate>
     <atom:link href="https://blog.kunlovefan.online/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>生活</title>
-      <link>https://blog.kunlovefan.online/categories/%E7%94%9F%E6%B4%BB/</link>
+      <title>搭建</title>
+      <link>https://blog.kunlovefan.online/categories/%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
-      <guid>https://blog.kunlovefan.online/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://blog.kunlovefan.online/categories/%E6%90%AD%E5%BB%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>教程</title>
+      <link>https://blog.kunlovefan.online/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
+      <guid>https://blog.kunlovefan.online/categories/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +27,6 @@
       <link>https://blog.kunlovefan.online/categories/%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
       <guid>https://blog.kunlovefan.online/categories/%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>阅读</title>
-      <link>https://blog.kunlovefan.online/categories/%E9%98%85%E8%AF%BB/</link>
-      <pubDate>Sat, 16 Mar 2024 14:35:43 +0800</pubDate>
-      <guid>https://blog.kunlovefan.online/categories/%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
   </channel>
